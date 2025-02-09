@@ -1,9 +1,5 @@
 # HTML PROJECT
 # Restaurant-website-design-html-css-Javascript
-Restaurant website design html css &amp; Javascript
+Cafe website designed by html,css,javascript.
+Our website consists of 7 html pages designed to give an easy and enjoyable way while exploring what the cafe offers.
 
-using html css and javascript i make a restaurant website 
-
-in this i use javascript to change the image
-
-Full video on youtube you make like the video 
