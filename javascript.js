@@ -1,7 +1,5 @@
 console.log('JavaScript Loaded');
 
-
-
 document.addEventListener("DOMContentLoaded", function() {
     // Function to show only the selected category and hide others
     function showCategory = (category) => {
